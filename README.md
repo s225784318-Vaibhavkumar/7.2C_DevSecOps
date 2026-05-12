@@ -1,5 +1,5 @@
 
-1.Testing automatic Jenkins trigger
+Testing automatic Jenkins trigger
 
 # Goof - Snyk's vulnerable demo app
 
